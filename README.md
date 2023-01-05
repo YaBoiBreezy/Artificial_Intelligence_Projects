@@ -1,2 +1,2 @@
 # Artificial_Intelligence_Projects
-All my successful attempts at AI
+Some of my successful attempts at AI
